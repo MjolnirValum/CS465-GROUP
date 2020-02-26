@@ -1,0 +1,69 @@
+﻿  Friendlierghost2.cpp
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(28,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(29,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(46,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(47,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(47,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(63,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(64,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(64,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(81,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(82,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(82,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(100,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(101,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(101,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(110,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(111,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(111,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(129,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(130,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(139,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(140,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(158,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(159,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(159,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(168,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(169,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(169,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(187,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(188,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(188,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(197,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(198,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(198,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(215,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(216,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(216,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(232,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(233,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(233,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(250,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(251,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(259,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(260,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(276,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(277,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(277,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(285,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(286,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(286,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(302,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(303,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(303,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(311,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(312,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(312,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(329,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(330,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(330,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(347,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(348,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(348,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(356,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(357,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(357,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(358,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(374,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rcerv\source\repos\Friendlierghost2\Friendlierghost2\Friendlierghost2.cpp(375,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Friendlierghost2.vcxproj -> C:\Users\rcerv\source\repos\Friendlierghost2\Debug\Friendlierghost2.exe
