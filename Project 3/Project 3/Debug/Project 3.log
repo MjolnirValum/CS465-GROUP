@@ -1,0 +1,91 @@
+﻿  main.cpp
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(25,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(26,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(43,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(44,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(44,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(60,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(61,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(61,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(78,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(79,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(79,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(97,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(98,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(98,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(107,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(108,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(108,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(126,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(127,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(136,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(137,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(155,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(156,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(156,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(165,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(166,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(166,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(184,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(185,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(185,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(194,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(195,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(195,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(212,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(213,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(213,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(229,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(230,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(230,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(247,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(248,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(256,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(257,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(273,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(274,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(274,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(282,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(283,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(283,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(299,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(300,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(300,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(308,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(309,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(309,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(326,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(327,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(327,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(344,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(345,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(345,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(353,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(354,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(354,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(355,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(371,14): error C2065: 'angle': undeclared identifier
+c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h(372,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(33,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(65,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(78,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(81,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(91,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(97,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(193,27): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(194,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(240,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(240,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(241,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(241,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(242,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(242,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(243,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(243,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(355,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(358,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(359,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(375,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(376,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(381,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\clayt\Desktop\CS465-GROUP\main.cpp(382,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data

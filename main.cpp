@@ -1,7 +1,11 @@
 #define GL_SILENCE_DEPRECATION
-#include <GLUT/glut.h>
+//#include <GLUT/glut.h> //used on Mac OS
+#include <gl\glew.h>
+#include <gl\freeglut.h>
+#include <gl/glut.h>
 #include <math.h>
 #include <iostream>
+#include "c:\Users\clayt\source\repos\Project 3\Project 3\Ghost.h"
 #define PI 3.14159265
 double size = 20000000;
 int angle = 360;
@@ -110,6 +114,23 @@ void drawBitman(){
         glutSolidCube(size);
         glTranslatef(-size, 0, 0);
         glutSolidCube(size);
+
+        ////informed that 115 was where this for loop will have to go////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        glColor3f(1.0, 1.0, 1.0);
+        for (int i = 0; i < 8; i++) {
+            if (i != 0) { glTranslatef(0, 0, -1); }
+
+            ///////literally just copied and pasted Rian's code into here that involved drawing the Ghost, tried discerning what would go in here, figured it would be best and safe to start off with the drawing and comment out or remove what is needed to make this work
+
+            //actually tried to make a header file for displaying ghost
+
+
+
+
+            glLoadIdentity();
+        }
+
+
 }
 void drawSupport(){
     glColor3f(1, 1, 1);
